@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Db.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dataBase0" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=.\\sqlexpress,1433;Initial Catalog=DataBase;Integrated Security=false;User ID=AppUser;Password=AppPass&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\\sqlexpress,1433;Initial Catalog=DataBase;Integrated Security=false;User ID=AppUser;Password=AppPass</Value>
+    </Setting>
+    <Setting Name="dataBase1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=Developer2022;Initial Catalog=Test;Integrated Security=True;TrustServerCertificate=True; User ID=SQL_User_App;Password=User$Pass&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=Developer2022;Initial Catalog=Test;Integrated Security=True;TrustServerCertificate=True; User ID=SQL_User_App;Password=User$Pass</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
